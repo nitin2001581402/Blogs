@@ -117,6 +117,18 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": 1768853652365,
+      "title": "AP",
+      "category": [
+        "MONKE",
+        "DONKEY"
+      ],
+      "description": "HOI",
+      "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
+      "content": "Paragraph 1 – Project Overview\n\nThis project is developed to solve real-world problems using modern web technologies. The main goal of the application is to provide an efficient, user-friendly, and reliable solution. The system is designed with a clear structure so that users can easily understand and use it. Special attention is given to performance, usability, and maintainability throughout the development process.\n\nParagraph 2 – Objective of the Project\n\nThe objective of this project is to design and implement a functional application that meets all the requirements mentioned in the problem statement. It focuses on simplifying complex tasks and reducing manual effort. By using a logical and systematic approach, the project ensures accurate results and smooth user interaction.\n\nParagraph 3 – Technologies Used\n\nThe project is built using modern technologies such as React for the frontend and Node.js for the backend. React helps in creating reusable and dynamic user interface components, while the backend handles data processing and business logic. APIs are used to enable communication between the frontend and backend, ensuring smooth data flow throughout the system.\n\nParagraph 4 – System Design\n\nThe application follows a modular design approach where each component has a specific responsibility. This design improves readability, scalability, and maintainability of the code. Proper validation and error handling are implemented to ensure data accuracy and system reliability. The user interface is designed to be clean, responsive, and easy to navigate.\n\nParagraph 5 – Features of the Application\n\nThe application allows users to perform essential operations such as viewing, adding, editing, and deleting data. All changes are updated dynamically without reloading the page. The system provides clear messages and validations to guide the user during interaction. Security and performance are also considered during development.\n\nParagraph 6 – Learning Outcomes\n\nThrough this project, I gained practical experience in frontend and backend development. It helped me improve my problem-solving skills and understand real-time application workflows. I also learned the importance of clean code, proper project structure, and effective debugging techniques.\n\nParagraph 7 – Conclusion\n\nIn conclusion, the project was successfully completed by fulfilling all the required objectives. The application works efficiently and provides a smooth user experience. This project was a valuable learning experience and helped strengthen my technical skills. Future enhancements can be added easily due to the scalable design of the system.",
+      "date": "2026-01-19T20:14:12.365Z"
     }
   ]
 }
