@@ -94,3 +94,28 @@ The application is fully responsive and optimized for different screen sizes usi
   "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
   "content": "Full blog content..."
 }
+
+## Setup Instructions
+
+### Prerequisites
+
+- Node.js (v18 or later recommended)  
+- npm package manager  
+- Git  
+
+### Step-by-Step Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/nitin2001581402/Blogs.git
+cd Blogs
+
+# Install dependencies
+npm install
+
+# Start JSON Server (Backend API)
+npm run server
+
+# Start frontend development server
+npm run dev
+
