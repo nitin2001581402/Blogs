@@ -84,7 +84,6 @@ The application is fully responsive and optimized for different screen sizes usi
 
 ## Sample Blog Object
 
-```json
 {
   "id": 1,
   "title": "Future of Fintech",
@@ -94,6 +93,8 @@ The application is fully responsive and optimized for different screen sizes usi
   "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
   "content": "Full blog content..."
 }
+
+---
 
 ## Setup Instructions
 
@@ -118,4 +119,6 @@ npm run server
 
 # Start frontend development server
 npm run dev
+
+
 
